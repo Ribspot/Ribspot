@@ -13,7 +13,7 @@
 - 💬 Ask me about **html, CSS and flask**
 
 - 📫 How to reach me **ooyoma@gmail.com**
-- 📫 my portfolio [ **ooyoma@gmail.com**](https://oguguoyoma.netlify.app)
+- 📫 my portfolio [ **ogugu oyoma**](https://oguguoyoma.netlify.app)
 
 - 📄 Know about my experiences [https://drive.google.com/open?id=1HkCr5htYKrX9NgywwXZpzpMEasEzcygk&usp=drive_fs](https://drive.google.com/open?id=1HkCr5htYKrX9NgywwXZpzpMEasEzcygk&usp=drive_fs)
 
